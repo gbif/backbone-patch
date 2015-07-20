@@ -1,34 +1,34 @@
-taxonID	acceptedNameUsageID	originalNameUsageID	scientificName	nameAccordingTo	namePublishedInYear	namePublishedIn	taxonRank	taxonomicStatus	nomenclaturalStatus	kingdom	phylum	class	order	family	dc:references	taxonRemarks
-1			Hydraena truncata Rey, 1885	ITIS			species	accepted		Animalia	Arthropoda	Insecta	Coleoptera	Hydraenidae	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=815716	Provisionally added until it becomes available via ITIS or FaunaEuropaea
-2			Amastra affinis (Newcomb, 1854)	BishopMuseum			species	accepted		Animalia	Mollusca			Amastridae	http://nsdb.bishopmuseum.org/?w=BPBM&explst=tr&cols=10&rpp=1000&pge=1&id=1519640147	
-3	2		Achatinella goniostoma	BishopMuseum			species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
-4	2		Achatinella pupoidea	BishopMuseum			species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
-5	2		Amastra abberans	BishopMuseum			species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
-6	2		Amastra affinis subsp. subpulla	BishopMuseum			subspecies	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
-7	2		Amastra affinis var. bigener	BishopMuseum			variety	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
-8	2		Amastra affinis var. cinderella	BishopMuseum			variety	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
-9	2		Amastra bigener var. abberans	BishopMuseum			variety	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
-10	2		Amastra bigener	BishopMuseum			species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
-12	2		Amastra cinderella	BishopMuseum			species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
-13	2		Amastra goniostoma	BishopMuseum			species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
-14	2		Amastra pupoidea	BishopMuseum			species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
-15	2		Amastra rustica	BishopMuseum			species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
-17	2		Amastra subpulla	BishopMuseum			species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
-20			Belonidium Cossmann, 1892	IRMNG	1892	J. Conchyliol., 40, 350.	genus	accepted		Animalia	Mollusca	Gastropoda	Mesogastropoda	Pyramidellidae		
-21	20		Anisocycla Cossmann, 1888	IRMNG	1888	Ann. Soc. malac. Belgique, 23, Mém., 108.	genus	synonym	nomen nudum	Animalia	Mollusca	Gastropoda	Mesogastropoda	Pyramidellidae		
-22			Dacnusa Haliday, 1833	ITIS			genus	accepted		Animalia	Arthropoda	Insecta	Hymenoptera			
-23	22		Radiolaria Provancher, 1886	ITIS			genus	synonym								
-24			Radiolaria	wikipedia			subphylum	accepted		Protozoa						
-25			Coccoidea	CoL			superfamily	accepted		Animalia		Insecta	Hemiptera			
-26			Coccoidea	CoL			genus	accepted		Fungi	Ascomycota	Dothideales	Coccoideaceae			
-27			Acantharia	CoL			class	accepted		Protozoa						
-28			Acantharia	IF			genus	accepted		Fungi	Ascomycota					
-29			Lobata				order	accepted		Animalia	Ctenophora	Tentaculata	Lobata			
-30			Lobata				genus	accepted		Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae		
-31			Monticola erythronotus	IUCN			species	accepted		Animalia		Aves				
-32	31		Monticola erythronota	Clements Checklist			species	synonym		Animalia		Aves				
-33			Vespula alascensis (Packard, 1870)	Peter de Vries			accepted			Animalia	Insecta	Hymenoptera	Vespidae		http://digitallibrary.amnh.org/dspace/handle/2246/6074	Carpenter & Glare 1956: Misidentification of Vespula alascensis as V. vulgaris in North America.
-34			Hypodynerus anae Barerra, 2011	Barerra	2011	Boletín de la Sociedad Entomológica  Aragonesa, 48: 157-162.	species	accepted		Animalia		Insecta	Hymenoptera	Vespidae	http://www.insectos.cl/pdf/barrera-medina-2011%20157%20162%20BSEA%2048%20Avispa%20alfarera%20Chile.pdf	notified by personal author email. See also http://www.vespidae.be/Eumeninae/Hypodynerus_anae.htm
-35	36		Stigmaria fucoides	Sven Ziepe			species	synonym	misspelling	Plantae	Pteridophyta	Lycopsida				notified by Sven Ziepe, pandora.be
-36			Stigmaria ficoides	Sven Ziepe			species	accepted		Plantae	Pteridophyta	Lycopsida				
-37			Hymenoscyphus pseudoalbidus V. Queloz, C.R. Grünig, R. Berndt, T. Kowalski, T.N. Sieber & O. Holdenrieder	MycoBank	2010	http://www.mycobank.org/MB/542015	species	accepted		Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae		notified by personal email from Andrin Gross
+taxonID	acceptedNameUsageID	originalNameUsageID	scientificName	scientificNameID	nameAccordingTo	namePublishedInYear	namePublishedIn	namePublishedInID	taxonRank	taxonomicStatus	nomenclaturalStatus	kingdom	phylum	class	order	family	dc:references	taxonRemarks
+1			Hydraena truncata Rey, 1885		ITIS				species	accepted		Animalia	Arthropoda	Insecta	Coleoptera	Hydraenidae	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=815716	Provisionally added until it becomes available via ITIS or FaunaEuropaea
+2			Amastra affinis (Newcomb, 1854)		BishopMuseum				species	accepted		Animalia	Mollusca			Amastridae	http://nsdb.bishopmuseum.org/?w=BPBM&explst=tr&cols=10&rpp=1000&pge=1&id=1519640147	
+3	2		Achatinella goniostoma		BishopMuseum				species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+4	2		Achatinella pupoidea		BishopMuseum				species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+5	2		Amastra abberans		BishopMuseum				species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+6	2		Amastra affinis subsp. subpulla		BishopMuseum				subspecies	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+7	2		Amastra affinis var. bigener		BishopMuseum				variety	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+8	2		Amastra affinis var. cinderella		BishopMuseum				variety	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+9	2		Amastra bigener var. abberans		BishopMuseum				variety	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+10	2		Amastra bigener		BishopMuseum				species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+12	2		Amastra cinderella		BishopMuseum				species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+13	2		Amastra goniostoma		BishopMuseum				species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+14	2		Amastra pupoidea		BishopMuseum				species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+15	2		Amastra rustica		BishopMuseum				species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+17	2		Amastra subpulla		BishopMuseum				species	junior synonym								following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+20			Belonidium Cossmann, 1892		IRMNG	1892	J. Conchyliol., 40, 350.		genus	accepted		Animalia	Mollusca	Gastropoda	Mesogastropoda	Pyramidellidae		
+21	20		Anisocycla Cossmann, 1888		IRMNG	1888	Ann. Soc. malac. Belgique, 23, Mém., 108.		genus	synonym	nomen nudum	Animalia	Mollusca	Gastropoda	Mesogastropoda	Pyramidellidae		
+22			Dacnusa Haliday, 1833		ITIS				genus	accepted		Animalia	Arthropoda	Insecta	Hymenoptera			
+23	22		Radiolaria Provancher, 1886		ITIS				genus	synonym								
+24			Radiolaria		wikipedia				subphylum	accepted		Protozoa						
+25			Coccoidea		CoL				superfamily	accepted		Animalia		Insecta	Hemiptera			
+26			Coccoidea		CoL				genus	accepted		Fungi	Ascomycota	Dothideales	Coccoideaceae			
+27			Acantharia		CoL				class	accepted		Protozoa						
+28			Acantharia		IF				genus	accepted		Fungi	Ascomycota					
+29			Lobata						order	accepted		Animalia	Ctenophora	Tentaculata	Lobata			
+30			Lobata						genus	accepted		Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae		
+31			Monticola erythronotus		IUCN				species	accepted		Animalia		Aves				
+32	31		Monticola erythronota		Clements Checklist				species	synonym		Animalia		Aves				
+33			Vespula alascensis (Packard, 1870)		Peter de Vries					accepted			Animalia	Insecta	Hymenoptera	Vespidae		http://digitallibrary.amnh.org/dspace/handle/2246/6074	Carpenter & Glare 1956: Misidentification of Vespula alascensis as V. vulgaris in North America.
+34			Hypodynerus anae Barerra, 2011		Barerra	2011	Boletín de la Sociedad Entomológica  Aragonesa, 48: 157-162.		species	accepted		Animalia		Insecta	Hymenoptera	Vespidae	http://www.insectos.cl/pdf/barrera-medina-2011%20157%20162%20BSEA%2048%20Avispa%20alfarera%20Chile.pdf	notified by personal author email. See also http://www.vespidae.be/Eumeninae/Hypodynerus_anae.htm
+35	36		Stigmaria fucoides		Sven Ziepe				species	synonym	misspelling	Plantae	Pteridophyta	Lycopsida				notified by Sven Ziepe, pandora.be
+36			Stigmaria ficoides		Sven Ziepe				species	accepted		Plantae	Pteridophyta	Lycopsida				
+37			Hymenoscyphus pseudoalbidus V. Queloz, C.R. Grünig, R. Berndt, T. Kowalski, T.N. Sieber & O. Holdenrieder		MycoBank	2010		http://www.mycobank.org/MB/542015	species	accepted		Fungi	Ascomycota	Leotiomycetes	Helotiales	Helotiaceae		notified by personal email from Andrin Gross

@@ -4,25 +4,32 @@
       <location>patch.txt</location>
     </files>
     <id index="0" />
+	<!-- taxonKey is the primary key and name usage relations referenceing taxonID-->
     <field index="0" term="http://rs.tdwg.org/dwc/terms/taxonID"/>
+	<!-- name usage relations referenceing taxonID-->
     <field index="1" delimitedBy="," term="http://rs.tdwg.org/dwc/terms/acceptedNameUsageID"/>
     <field index="2" term="http://rs.tdwg.org/dwc/terms/originalNameUsageID"/>
-	
+		
     <field index="3" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
-    <field index="4" term="http://rs.tdwg.org/dwc/terms/nameAccordingTo"/>
-    <field index="5" term="http://rs.tdwg.org/dwc/terms/namePublishedInYear"/>
-    <field index="6" term="http://rs.tdwg.org/dwc/terms/namePublishedIn"/>
-    <field index="7" term="http://rs.tdwg.org/dwc/terms/taxonRank"/>
-    <field index="8" term="http://rs.tdwg.org/dwc/terms/taxonomicStatus"/>
-    <field index="9" delimitedBy="," term="http://rs.tdwg.org/dwc/terms/nomenclaturalStatus"/>
-
-    <field index="10" term="http://rs.tdwg.org/dwc/terms/kingdom"/>
-    <field index="11" term="http://rs.tdwg.org/dwc/terms/phylum"/>
-    <field index="12" term="http://rs.tdwg.org/dwc/terms/class"/>
-    <field index="13" term="http://rs.tdwg.org/dwc/terms/order"/>
-    <field index="14" term="http://rs.tdwg.org/dwc/terms/family"/>
-
-    <field index="15" term="http://purl.org/dc/terms/references"/>
-    <field index="16" term="http://rs.tdwg.org/dwc/terms/taxonRemarks"/>
+	<!-- scientificNameID as used by nomenclators, e.g. an IPNI LSID, ZooBank UUID, etc -->
+    <field index="4" term="http://rs.tdwg.org/dwc/terms/scientificNameID"/>
+    <field index="5" term="http://rs.tdwg.org/dwc/terms/nameAccordingTo"/>
+    <field index="6" term="http://rs.tdwg.org/dwc/terms/namePublishedInYear"/>
+    <field index="7" term="http://rs.tdwg.org/dwc/terms/namePublishedIn"/>
+	<!-- publication identifier such as DOI where the name (recombination) was first published -->
+    <field index="8" term="http://rs.tdwg.org/dwc/terms/namePublishedInID"/>
+    <field index="9" term="http://rs.tdwg.org/dwc/terms/taxonRank"/>
+    <field index="10" term="http://rs.tdwg.org/dwc/terms/taxonomicStatus"/>
+    <field index="11" delimitedBy="," term="http://rs.tdwg.org/dwc/terms/nomenclaturalStatus"/>
+	
+    <field index="12" term="http://rs.tdwg.org/dwc/terms/kingdom"/>
+    <field index="13" term="http://rs.tdwg.org/dwc/terms/phylum"/>
+    <field index="14" term="http://rs.tdwg.org/dwc/terms/class"/>
+    <field index="15" term="http://rs.tdwg.org/dwc/terms/order"/>
+    <field index="16" term="http://rs.tdwg.org/dwc/terms/family"/>
+	<!-- URL to a webpage/document taxon in the source -->
+    <field index="17" term="http://purl.org/dc/terms/references"/>
+	<!-- any further remarks and discussion why the name was inluded here -->
+    <field index="18" term="http://rs.tdwg.org/dwc/terms/taxonRemarks"/>
   </core>
 </archive>
