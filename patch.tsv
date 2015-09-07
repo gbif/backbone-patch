@@ -27,7 +27,7 @@ taxonID	acceptedNameUsageID	originalNameUsageID	scientificName	scientificNameID	
 30			Lobata						genus	accepted		Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae		
 31			Monticola erythronotus		IUCN				species	accepted		Animalia		Aves				
 32	31		Monticola erythronota		Clements Checklist				species	synonym		Animalia		Aves				
-33			Vespula alascensis (Packard, 1870)		Peter de Vries					accepted			Animalia	Insecta	Hymenoptera	Vespidae		http://digitallibrary.amnh.org/dspace/handle/2246/6074Carpenter & Glare 1956: Misidentification of Vespula alascensis as V. vulgaris in North America.
+33			Vespula alascensis (Packard, 1870)		Peter de Vries					accepted		Animalia  Arthropoda	Insecta	Hymenoptera	Vespidae	http://digitallibrary.amnh.org/dspace/handle/2246/6074  Carpenter & Glare 1956: Misidentification of Vespula alascensis as V. vulgaris in North America.
 34			Hypodynerus anae Barerra, 2011		Barerra	2011	Boletín de la Sociedad Entomológica  Aragonesa, 48: 157-162.		species	accepted		Animalia		Insecta	Hymenoptera	Vespidae	http://www.insectos.cl/pdf/barrera-medina-2011%20157%20162%20BSEA%2048%20Avispa%20alfarera%20Chile.pdf	notified by personal author email. See also http://www.vespidae.be/Eumeninae/Hypodynerus_anae.htm
 35	36		Stigmaria fucoides		Sven Ziepe				species	synonym	misspelling	Plantae	Pteridophyta	Lycopsida				notified by Sven Ziepe, pandora.be
 36			Stigmaria ficoides		Sven Ziepe				species	accepted		Plantae	Pteridophyta	Lycopsida				
