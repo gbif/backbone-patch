@@ -1,7 +1,7 @@
 <archive xmlns="http://rs.tdwg.org/dwc/text/" metadata="eml.xml">
   <core encoding="utf-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
     <files>
-      <location>patch.txt</location>
+      <location>patch.tsv</location>
     </files>
     <id index="0" />
 	<!-- taxonKey is the primary key and name usage relations referenceing taxonID-->
