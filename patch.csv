@@ -1,0 +1,73 @@
+taxonID;parentNameUsageID;acceptedNameUsageID;originalNameUsageID;taxonRank;taxonomicStatus;scientificName;nameAccordingTo;namePublishedInYear;namePublishedIn;namePublishedInID;nomenclaturalStatus;dc:references;taxonRemarks
+k1;;;;kingdom;;Animalia;;;;;;;
+k2;;;;kingdom;;Plantae;;;;;;;
+k3;;;;kingdom;;Fungi;;;;;;;
+k4;;;;kingdom;;Protozoa;;;;;;;
+p1;k1;;;phylum;;Arthropoda;;;;;;;
+p2;k1;;;phylum;;Mollusca;;;;;;;
+p3;k3;;;phylum;;Ascomycota;;;;;;;
+p4;k1;;;phylum;;Ctenophora;;;;;;;
+p5;k2;;;phylum;;Chlorophyta;;;;;;;
+p6;k1;;;phylum;;Chordata;;;;;;;
+p7;k2;;;phylum;;Pteridophyta;;;;;;;
+c1;p1;;;class;;Insecta;;;;;;;
+c2;p2;;;class;;Gastropoda;;;;;;;
+c3;p3;;;class;;Dothideales;;;;;;;
+c4;p4;;;class;;Tentaculata;;;;;;;
+c5;p5;;;class;;Ulvophyceae;;;;;;;
+c6;p6;;;class;;Aves;;;;;;;
+c7;p7;;;class;;Lycopsida;;;;;;;
+c8;p3;;;class;;Leotiomycetes;;;;;;;
+c9;p1;;;class;;Arachnida  ;;;;;;;
+o1;c1;;;order;;Coleoptera;;;;;;;
+o2;c2;;;order;;Mesogastropoda;;;;;;;
+o3;c1;;;order;;Hymenoptera;;;;;;;
+o4;c1;;;order;;Hemiptera;;;;;;;
+o5;c3;;;order;;Coccoideaceae;;;;;;;
+o6;c4;;;order;;Lobata;;;;;;;
+o7;c5;;;order;;Ulvales;;;;;;;
+o8;c8;;;order;;Helotiales;;;;;;;
+o9;c9;;;order;;Pseudoscorpions de Geer, 1778;CoL;;;;;;
+;;;;;;;;;;;;;
+f1;o1;;;family;;Hydraenidae;;;;;;;
+f2;p2;;;family;;Amastridae;;;;;;;
+f3;o2;;;family;;Pyramidellidae;;;;;;;
+f4;o7;;;family;;Ulvaceae;;;;;;;
+f5;o3;;;family;;Vespidae;;;;;;;
+f6;o8;;;family;;Helotiaceae;;;;;;;
+;;;;;;;;;;;;;
+1;f1;;;species;accepted;Hydraena truncata Rey, 1885;ITIS;;;;;http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=815716;Provisionally added until it becomes available via ITIS or FaunaEuropaea
+2;f2;;;species;accepted;Amastra affinis (Newcomb, 1854);BishopMuseum;;;;;http://nsdb.bishopmuseum.org/?w=BPBM&explst=tr&cols=10&rpp=1000&pge=1&id=1519640147;
+3;;2;;species;junior synonym;Achatinella goniostoma;BishopMuseum;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+4;;2;;species;junior synonym;Achatinella pupoidea;BishopMuseum;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+5;;2;;species;junior synonym;Amastra abberans;BishopMuseum;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+6;;2;;subspecies;junior synonym;Amastra affinis subsp. subpulla;BishopMuseum;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+7;;2;;variety;junior synonym;Amastra affinis var. bigener;BishopMuseum;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+8;;2;;variety;junior synonym;Amastra affinis var. cinderella;BishopMuseum;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+9;;2;;variety;junior synonym;Amastra bigener var. abberans;BishopMuseum;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+10;;2;;species;junior synonym;Amastra bigener;BishopMuseum;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+12;;2;;species;junior synonym;Amastra cinderella;BishopMuseum;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+13;;2;;species;junior synonym;Amastra goniostoma;BishopMuseum;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+14;;2;;species;junior synonym;Amastra pupoidea;BishopMuseum;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+15;;2;;species;junior synonym;Amastra rustica;BishopMuseum;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+17;;2;;species;junior synonym;Amastra subpulla;BishopMuseum;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
+20;f3;;;genus;accepted;Belonidium Cossmann, 1892;IRMNG;1892;J. Conchyliol., 40, 350.;;;;
+21;;20;;genus;synonym;Anisocycla Cossmann, 1888;IRMNG;1888;Ann. Soc. malac. Belgique, 23, Mém., 108.;;nomen nudum;;
+22;o3;;;genus;accepted;Dacnusa Haliday, 1833;ITIS;;;;;;
+23;;22;;genus;synonym;Radiolaria Provancher, 1886;ITIS;;;;;;
+24;k4;;;subphylum;accepted;Radiolaria;wikipedia;;;;;;
+25;o4;;;superfamily;accepted;Coccoidea;CoL;;;;;;
+26;o5;;;genus;accepted;Coccoidea;CoL;;;;;;
+27;k4;;;class;accepted;Acantharia;CoL;;;;;;
+28;p3;;;genus;accepted;Acantharia;IF;;;;;;
+29;o6;;;order;accepted;Lobata;;;;;;;
+30;f4;;;genus;accepted;Lobata;;;;;;;
+31;c6;;;species;accepted;Monticola erythronotus;IUCN;;;;;;
+32;c6;31;;species;synonym;Monticola erythronota;Clements Checklist;;;;;;
+33;f5;;;species;accepted;Vespula alascensis (Packard, 1870);Peter de Vries;;;;;http://digitallibrary.amnh.org/dspace/handle/2246/6074;Carpenter & Glare 1956: Misidentification of Vespula alascensis as V. vulgaris in North America.
+34;f5;;;species;accepted;Hypodynerus anae Barerra, 2011;Barerra;2011;Boletín de la Sociedad Entomológica  Aragonesa, 48: 157-162.;;;http://www.insectos.cl/pdf/barrera-medina-2011%20157%20162%20BSEA%2048%20Avispa%20alfarera%20Chile.pdf;notified by personal author email. See also http://www.vespidae.be/Eumeninae/Hypodynerus_anae.htm
+35;c7;36;;species;synonym;Stigmaria fucoides;Sven Ziepe;;;;misspelling;;notified by Sven Ziepe, pandora.be
+36;c7;;;species;accepted;Stigmaria ficoides;Sven Ziepe;;;;;;
+37;f6;;;species;accepted;Hymenoscyphus pseudoalbidus V. Queloz, C.R. Grünig, R. Berndt, T. Kowalski, T.N. Sieber & O. Holdenrieder;MycoBank;2010;;http://www.mycobank.org/MB/542015;;;notified by personal email from Andrin Gross
+38;;o9;;order;synonym;Pseudoscorpionida;Wikipedia;;;;;https://en.wikipedia.org/wiki/Pseudoscorpion;
+39;;o9;;order;synonym;Chelonethida;Wikipedia;;;;;https://en.wikipedia.org/wiki/Pseudoscorpion;
