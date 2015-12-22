@@ -28,14 +28,12 @@ o6;c4;;;order;;Lobata;;;;;;;
 o7;c5;;;order;;Ulvales;;;;;;;
 o8;c8;;;order;;Helotiales;;;;;;;
 o9;c9;;;order;;Pseudoscorpions de Geer, 1778;CoL;;;;;;
-;;;;;;;;;;;;;
 f1;o1;;;family;;Hydraenidae;;;;;;;
 f2;p2;;;family;;Amastridae;;;;;;;
 f3;o2;;;family;;Pyramidellidae;;;;;;;
 f4;o7;;;family;;Ulvaceae;;;;;;;
 f5;o3;;;family;;Vespidae;;;;;;;
 f6;o8;;;family;;Helotiaceae;;;;;;;
-;;;;;;;;;;;;;
 1;f1;;;species;accepted;Hydraena truncata Rey, 1885;ITIS;;;;;http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=815716;Provisionally added until it becomes available via ITIS or FaunaEuropaea
 2;f2;;;species;accepted;Amastra affinis (Newcomb, 1854);BishopMuseum;;;;;http://nsdb.bishopmuseum.org/?w=BPBM&explst=tr&cols=10&rpp=1000&pge=1&id=1519640147;
 3;;2;;species;junior synonym;Achatinella goniostoma;BishopMuseum;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
