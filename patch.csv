@@ -26,11 +26,11 @@ p7-s13;;p7;;subkingdom;synonym;Tracheobionta;;;;;;;;
 p7-s14;;p7;;phylum;synonym;Psilophyta;;;;;;;;
 p7-s15;;p7;;phylum;synonym;Pteridophyta;;;;;;;;
 p7-s16;;p7;;subphylum;synonym;Pteridophytina;;;;;;;;
-p8;k1;;;phylum;;Marchantiophyta;;;;;;;;
+p8;k2;;;phylum;;Marchantiophyta;;;;;;;;
 p8-s1;;p8;;phylum;synonym;Hepaticae;;;;;;;;
 p8-s2;;p8;;phylum;synonym;Hepatophyta;;;;;;;;
 p8-s3;;p8;;subphylum;synonym;Marchantiophytina;;;;;;;;
-p9;k1;;;phylum;;Bryophyta;;;;;;;;
+p9;k2;;;phylum;;Bryophyta;;;;;;;;
 p9-s1;;p9;;phylum;synonym;Musci;;;;;;;;
 p9-s2;;p9;;subphylum;synonym;Bryophytina;;;;;;;;
 24;;k4;;subphylum;synonym;Radiolaria;wikipedia;;;;;;;A subphylum hard to map to the CoL tree. Protozoa is a bit high, but is the best single match
