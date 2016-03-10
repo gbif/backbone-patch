@@ -3,6 +3,7 @@ k1;;;;kingdom;;Animalia;;;;;;;;
 k2;;;;kingdom;;Plantae;;;;;;;;
 k3;;;;kingdom;;Fungi;;;;;;;;
 k4;;;;kingdom;;Protozoa;;;;;;;;
+k5;;;;kingdom;;Chromista;;;;;;;;
 p1;k1;;;phylum;;Arthropoda;;;;;;;;
 p2;k1;;;phylum;;Mollusca;;;;;;;;
 p3;k3;;;phylum;;Ascomycota;;;;;;;;
@@ -33,6 +34,8 @@ p8-s3;;p8;;subphylum;synonym;Marchantiophytina;;;;;;;;
 p9;k2;;;phylum;;Bryophyta;;;;;;;;
 p9-s1;;p9;;phylum;synonym;Musci;;;;;;;;
 p9-s2;;p9;;subphylum;synonym;Bryophytina;;;;;;;;
+p10;k5;;;phylum;;Cryptophyta;;;;;;;;
+p10-s1;;p10;;phylum;synonym;Cryptista;;;;;;;;
 24;;k4;;subphylum;synonym;Radiolaria;wikipedia;;;;;;;A subphylum hard to map to the CoL tree. Protozoa is a bit high, but is the best single match
 c1;p1;;;class;;Insecta;;;;;;;;
 c2;p2;;;class;;Gastropoda;;;;;;;;
