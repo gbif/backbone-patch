@@ -1,4 +1,4 @@
-taxonID;parentNameUsageID;acceptedNameUsageID;originalNameUsageID;taxonRank;taxonomicStatus;scientificName;nameAccordingTo;namePublishedInYear;namePublishedIn;namePublishedInID;nomenclaturalStatus;dc:references;;taxonRemarks
+taxonID;parentNameUsageID;acceptedNameUsageID;originalNameUsageID;taxonRank;taxonomicStatus;scientificName;nameAccordingTo;namePublishedInYear;namePublishedIn;namePublishedInID;nomenclaturalStatus;dc:references;typification;taxonRemarks
 k1;;;;kingdom;;Animalia;;;;;;;;
 k2;;;;kingdom;;Plantae;;;;;;;;
 k3;;;;kingdom;;Fungi;;;;;;;;
@@ -46,6 +46,7 @@ c7;p7;;;class;;Lycopodiopsida;;;;;;;;
 c8;p3;;;class;;Leotiomycetes;;;;;;;;
 c9;p1;;;class;;Arachnida;;;;;;;;
 c10;k4;;;class;accepted;Acantharia;CoL;;;;;;;
+c11;p6;;;class;;Amphibia;;;;;;;;
 o1;c1;;;order;;Coleoptera;;;;;;;;
 o3;c1;;;order;;Hymenoptera;;;;;;;;
 o4;c1;;;order;;Hemiptera;;;;;;;;
@@ -63,6 +64,7 @@ f3;c2;;;family;;Pyramidellidae;;;;;;;;
 f4;p5;;;family;;Ulvaceae;;;;;;;;
 f5;o3;;;family;;Vespidae;;;;;;;;
 f6;o8;;;family;;Helotiaceae;;;;;;;;
+f7;c11;;;family;;Dendrobatidae;;;;;;;;
 1;f1;;;species;accepted;Hydraena truncata Rey, 1885;ITIS;;;;;http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=815716;;Provisionally added until it becomes available via ITIS or FaunaEuropaea
 2;f2;;;species;accepted;Amastra affinis (Newcomb, 1854);BishopMuseum;;;;;http://nsdb.bishopmuseum.org/?w=BPBM&explst=tr&cols=10&rpp=1000&pge=1&id=1519640147;;
 3;;2;;species;junior synonym;Achatinella goniostoma;BishopMuseum;;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
@@ -92,3 +94,25 @@ f6;o8;;;family;;Helotiaceae;;;;;;;;
 35;c7;36;;species;synonym;Stigmaria fucoides;Sven Ziepe;;;;misspelling;;;notified by Sven Ziepe, pandora.be
 36;c7;;;species;accepted;Stigmaria ficoides;Sven Ziepe;;;;;;;
 37;f6;;;species;accepted;Hymenoscyphus pseudoalbidus V. Queloz, C.R. Grünig, R. Berndt, T. Kowalski, T.N. Sieber & O. Holdenrieder;MycoBank;2010;;http://www.mycobank.org/MB/542015;;;;notified by personal email from Andrin Gross
+38;f7;;;genus;accepted;Andinobates Twomey, Brown, Amézquita, and Mejía-Vargas, 2011;;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083: 20;;;;Type species: Dendrobates bombetes Myers and Daly, 1980, by original designation.; notified by Ángela Suárez-Mayorga, see http://dev.gbif.org/issues/browse/POR-2030
+39;38;;53;species;;Andinobates abditus (Myers and Daly, 1976);;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083: 36.;http://dendrobates.org/articles/Myers&Daly1976_D.abditus.pdf;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-abditus;;
+40;38;;54;species;;Andinobates altobueyensis (Silverstone, 1975);;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083: 30.;;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-altobueyensis;;
+41;38;;;species;;Andinobates bombetes (Myers and Daly, 1980);;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083.;;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-bombetes;;
+42;38;;;species;;Andinobates cassidyhornae Amézquita, Márquez, Mejía-Vargas, Kahn, Suárez, and Mazariegos, 2013;;2013;Amézquita, Márquez, Mejía-Vargas, Kahn, Suárez, and Mazariegos, 2013, Zootaxa, 3620: 168.;;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-cassidyhornae;;
+43;38;;55;species;;Andinobates claudiae (Jungfer, Lötters, and Jörgens, 2000);;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083.;;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-claudiae;;
+44;38;;56;species;;Andinobates daleswansoni (Rueda-Almonacid, Rada, Sánchez-Pacheco, Velásquez-Álvarez, and Quevedo-Gil, 2006);;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083.;;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-daleswansoni;;
+45;38;;57;species;;Andinobates dorisswansonae (Rueda-Almonacid, Rada, Sánchez-Pacheco, Velásquez-Álvarez, and Quevedo-Gil, 2006);;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083.;;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-dorisswansonae;;
+46;38;;58;species;;Andinobates fulguritus (Silverstone, 1975);;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083.;;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-fulguritus;;
+47;38;;;species;;Andinobates geminisae Batista, Jaramillo, Ponce, and Crawford, 2014;;2014;Batista, Abel, César J. A., Marcos Ponce & Andrew J. Crawford. 2014 A new species of Andinobates (Amphibia: Anura: Dendrobatidae) from west central Panama. Zootaxa 3866(3): 333–352.;http://dx.doi.org/10.11646/zootaxa.3866.3.2;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-geminisae;;
+48;38;;;species;;Andinobates minutus (Shreve, 1935);;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083.;;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-minutus;;
+49;38;;;species;;Andinobates opisthomelas (Boulenger, 1899);;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083.;;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-opisthomelas;;
+50;38;;;species;;Andinobates tolimensis (Bernal-Bautista, Luna-Mora, Gallego, and Quevedo-Gil, 2007);;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083.;;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-tolimensis;;
+51;38;;;species;;Andinobates viridis (Myers and Daly, 1976);;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083.;;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-viridis;;
+52;38;;;species;;Andinobates virolinensis (Ruiz-Carranza and Ramírez-Pinilla, 1992);;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083.;;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-virolinensis;;
+53;;39;;species;;Dendrobates abditus Myers and Daly, 1976;;1976;Occas. Pap. Mus. Nat. Hist. Univ. Kansas, 59: 1;;;;;
+54;;40;;species;;Dendrobates altobueyensis Silverstone, 1975;;1975;;;;;;
+55;;43;;species;;Dendrobates claudiae Jungfer, Lötters, and Jörgens, 2000;;2000;Herpetofauna, Weinstadt, 22: 12.;;;;;
+56;;44;;species;;Dendrobates daleswansoni Rueda-Almonacid, Rada, Sánchez-Pacheco, Velásquez-Álvarez, and Quevedo-Gil, 2006;;2006;Zootaxa, 1259: 41.;;;;;
+57;;45;;species;;Dendrobates dorisswansoni Rueda-Almonacid, Rada, Sánchez-Pacheco, Velásquez-Álvarez, and Quevedo-Gil, 2006;;2006;Zootaxa, 1259: 48.;;;;;
+58;;46;;species;;Dendrobates fulguritus Silverstone, 1975;;1975;Sci. Bull. Nat. Hist. Mus. Los Angeles Co., 21: 28. ;;;;;
+;;;;;;;;;;;;;;
