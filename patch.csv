@@ -69,6 +69,7 @@ f4;p5;;;family;;Ulvaceae;;;;;;;;
 f5;o3;;;family;;Vespidae;;;;;;;;
 f6;o8;;;family;;Helotiaceae;;;;;;;;
 f7;c11;;;family;;Dendrobatidae;;;;;;;;
+f8;k2;;;family;;Asteraceae;;;;;;;;
 1;f1;;;species;accepted;Hydraena truncata Rey, 1885;ITIS;;;;;http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=815716;;Provisionally added until it becomes available via ITIS or FaunaEuropaea
 2;f2;;;species;accepted;Amastra affinis (Newcomb, 1854);BishopMuseum;;;;;http://nsdb.bishopmuseum.org/?w=BPBM&explst=tr&cols=10&rpp=1000&pge=1&id=1519640147;;
 3;;2;;species;junior synonym;Achatinella goniostoma;BishopMuseum;;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
@@ -119,3 +120,9 @@ f7;c11;;;family;;Dendrobatidae;;;;;;;;
 56;;44;;species;;Dendrobates daleswansoni Rueda-Almonacid, Rada, Sánchez-Pacheco, Velásquez-Álvarez, and Quevedo-Gil, 2006;;2006;Zootaxa, 1259: 41.;;;;;
 57;;45;;species;;Dendrobates dorisswansoni Rueda-Almonacid, Rada, Sánchez-Pacheco, Velásquez-Álvarez, and Quevedo-Gil, 2006;;2006;Zootaxa, 1259: 48.;;;;;
 58;;46;;species;;Dendrobates fulguritus Silverstone, 1975;;1975;Sci. Bull. Nat. Hist. Mus. Los Angeles Co., 21: 28. ;;;;;
+59;f8;;;species;;Jacobaea vulgaris Gaertn.;;1791;Fruct. Sem. Pl. 2: 445. 1791;;;;;
+60;59;;;subspecies;;Jacobaea vulgaris subsp. gotlandica (Neuman) B.Nord.;;2006;Compositae Newslett. 44: 12 (2006);;;http://www.actaplantarum.org/flora/flora_info.php?id=9392;;
+61;59;;;subspecies;;Jacobaea vulgaris subsp. dunensis (Dumort.) Pelser & Meijden;;2005;Heukels' Fl. Nederland 677. 2005;;;http://www.theplantlist.org/tpl1.1/record/gcc-54851;;
+62;;60;;variety;;Senecio jacobaea L. var. gotlandicus Neuman;;1901;Sver. Fl .: 26 (1901);;;http://botanicaserbica.bio.bg.ac.rs/arhiva/pdf/2012_36_2_570_full.pdf;;
+63;p3;;;species;;Tephromela siphulodes Poelt & Grube;;1993;Nova Hedwigia 57(1-2): 9 (1993);;;http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=360652;;
+64;;63;;species;;Tephromela siphuloides Poelt & Grube;;;;;;http://www.biodiversity.no/ScientificName/75131;;
