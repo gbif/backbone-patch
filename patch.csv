@@ -74,6 +74,9 @@ f8;k2;;;family;;Asteraceae;;;;;;;;
 f9;c1;;;family;;Cimeliidae;;;;;;;;
 f10;;f9;;family;;Axiidae Rebel;;;;;;;;
 f11;c14;;;family;;Axiidae Huxley;;;;;;;;
+f12;;f8;;family;synonym;Compositae;;;;;;;;
+f13;k2;;;family;accepted;Fabaceae;;;;;;;;
+f14;;f13;;family;synonym;Leguminosae;;;;;;;;
 1;f1;;;species;accepted;Hydraena truncata Rey, 1885;ITIS;;;;;http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=815716;;Provisionally added until it becomes available via ITIS or FaunaEuropaea
 2;f2;;;species;accepted;Amastra affinis (Newcomb, 1854);BishopMuseum;;;;;http://nsdb.bishopmuseum.org/?w=BPBM&explst=tr&cols=10&rpp=1000&pge=1&id=1519640147;;
 3;;2;;species;junior synonym;Achatinella goniostoma;BishopMuseum;;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
