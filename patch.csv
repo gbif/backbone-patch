@@ -133,3 +133,6 @@ f14;;f13;;family;synonym;Leguminosae;;;;;;;;
 62;;60;;variety;;Senecio jacobaea L. var. gotlandicus Neuman;;1901;Sver. Fl .: 26 (1901);;;http://botanicaserbica.bio.bg.ac.rs/arhiva/pdf/2012_36_2_570_full.pdf;;
 63;p3;;;species;;Tephromela siphulodes Poelt & Grube;;1993;Nova Hedwigia 57(1-2): 9 (1993);;;http://www.indexfungorum.org/names/NamesRecord.asp?RecordID=360652;;
 64;;63;;species;;Tephromela siphuloides Poelt & Grube;;;;;;http://www.biodiversity.no/ScientificName/75131;;
+65;f8;;;species;accepted;Ambrosia artemisiifolia L.;;;;;;http://www.theplantlist.org/tpl1.1/record/gcc-20460;;
+66;f8;;;species;accepted;Ambrosia polystachya DC.;;;;;;;;
+67;;66;;species;synonym;Ambrosia artemisiifolia Besser;;;;;;http://www.theplantlist.org/tpl1.1/record/gcc-142227;;illegitimate name
