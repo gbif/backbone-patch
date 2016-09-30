@@ -136,3 +136,6 @@ f14;;f13;;family;synonym;Leguminosae;;;;;;;;
 65;f8;;;species;accepted;Ambrosia artemisiifolia L.;;;;;;http://www.theplantlist.org/tpl1.1/record/gcc-20460;;
 66;f8;;;species;accepted;Ambrosia polystachya DC.;;;;;;;;
 67;;66;;species;synonym;Ambrosia artemisiifolia Besser;;;;;;http://www.theplantlist.org/tpl1.1/record/gcc-142227;;illegitimate name
+68;o1;;;genus;accepted;Antennoluprops Schawaller, 2007;;2007;Spixiana 30/1: 29-32;;;http://www.pfeil-verlag.de/04biol/pdf/spix30_1_04.pdf;;
+69;68;;;species;accepted;Antennoluprops bremeri Schawaller, 2007;;2007;Spixiana 30/1: 29-32;;;http://www.pfeil-verlag.de/04biol/pdf/spix30_1_04.pdf;;
+70;68;;;species;accepted;Antennoluprops triplehorni Schawaller & Aalbu 2015;;2015;The Coleopterists Bulletin 69(mo4):80-82. 2015 ;doi:10.1649/0010-065X-69.mo4.80;;http://www.bioone.org/doi/abs/10.1649/0010-065X-69.mo4.80;;
