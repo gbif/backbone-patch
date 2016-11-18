@@ -62,6 +62,7 @@ o11;;o9;;order;synonym;Chelonethida;Wikipedia;;;;;https://en.wikipedia.org/wiki/
 o12;c2;;;order;;Stylommatophora;ITIS;;;;;http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=76755;;
 o13;c2;;;order;;Littorinimorpha;;;;;;http://www.catalogueoflife.org/col/browse/tree/id/4f3b1133c474f0b6a140c2c034c4662a;;
 o14;;o13;;order;;Heteropoda;;;;;;https://en.wikipedia.org/wiki/Pterotracheoidea;;
+o15;c1;;;order;;Lepidoptera;;;;;;;;
 sf1;o4;;;superfamily;accepted;Coccoidea;CoL;;;;;;;
 f1;o1;;;family;;Hydraenidae;;;;;;;;
 f2;o12;;;family;;Amastridae;;;;;;;;
@@ -139,3 +140,8 @@ f14;;f13;;family;synonym;Leguminosae;;;;;;;;
 68;o1;;;genus;accepted;Antennoluprops Schawaller, 2007;;2007;Spixiana 30/1: 29-32;;;http://www.pfeil-verlag.de/04biol/pdf/spix30_1_04.pdf;;
 69;68;;;species;accepted;Antennoluprops bremeri Schawaller, 2007;;2007;Spixiana 30/1: 29-32;;;http://www.pfeil-verlag.de/04biol/pdf/spix30_1_04.pdf;;
 70;68;;;species;accepted;Antennoluprops triplehorni Schawaller & Aalbu 2015;;2015;The Coleopterists Bulletin 69(mo4):80-82. 2015 ;doi:10.1649/0010-065X-69.mo4.80;;http://www.bioone.org/doi/abs/10.1649/0010-065X-69.mo4.80;;
+71;;72;;genus;synonym;Vogtia Pastrana, 1961;;1961;;;;http://bugguide.net/node/view/750459;;Vogtia was a patronym for George B. Vogt (1920–1990) who worked extensively on the biological control of alligator weed.
+72;o15;;;genus;accepted;Arcola Shaffer, 1995;;1995;;;;http://bugguide.net/node/view/750459;;
+73;;74;;species;synonym;Vogtia malloi Pastrana, 1961;;1961;;;;;;
+74;72;;73;species;accepted;Arcola malloi (Pastrana, 1961);;;;;;;;
+;;;;;;;;;;;;;;
