@@ -78,6 +78,8 @@ f11;c14;;;family;;Axiidae Huxley;;;;;;;;
 f12;;f8;;family;synonym;Compositae;;;;;;;;
 f13;k2;;;family;accepted;Fabaceae;;;;;;;;
 f14;;f13;;family;synonym;Leguminosae;;;;;;;;
+f15;o12;;;family;accepted;Helicidae Rafinesque, 1815;IRMNG;1815;;;;;;
+f16;p3;;;family;accepted;Gnomoniaceae;Index Fungorum;;;;;;;
 1;f1;;;species;accepted;Hydraena truncata Rey, 1885;ITIS;;;;;http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=815716;;Provisionally added until it becomes available via ITIS or FaunaEuropaea
 2;f2;;;species;accepted;Amastra affinis (Newcomb, 1854);BishopMuseum;;;;;http://nsdb.bishopmuseum.org/?w=BPBM&explst=tr&cols=10&rpp=1000&pge=1&id=1519640147;;
 3;;2;;species;junior synonym;Achatinella goniostoma;BishopMuseum;;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
@@ -146,3 +148,5 @@ f14;;f13;;family;synonym;Leguminosae;;;;;;;;
 74;72;;73;species;accepted;Arcola malloi (Pastrana, 1961);;;;;;https://en.wikipedia.org/wiki/Arcola_malloi;;
 75;76;;;species;accepted;Eriovixia gryffindori Ahmed, Khalap & Sumukha, 2016;;2016;Indian Journal of Arachnology 5 (1-2): 24-27 ;;;http://indianarachnology.com/ija/wp-content/uploads/2016/12/ija_2016_v5_n1_2_p7_24_27.pdf;;
 76;c9;;;genus;accepted;Eriovixia Archer, 1951;;1951;;;;;;
+77;f15;;;genus;accepted;Discula Lowe, 1852;IRMNG;1852;Ann. Mag. Nat. Hist., (2) 9: 116;;;http://www.irmng.org/aphia.php?p=taxdetails&id=1380624;;
+78;f16;;;genus;accepted;Discula P.A. Saccardo, 1884;Index Fungorum;1884;Syll. fung. (Abellini) 3: 674 (1884);;;http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=8085;;
