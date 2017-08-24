@@ -109,7 +109,7 @@ f16;p3;;;family;accepted;Gnomoniaceae;Index Fungorum;;;;;;;
 35;c7;36;;species;synonym;Stigmaria fucoides;Sven Ziepe;;;;misspelling;;;notified by Sven Ziepe, pandora.be
 36;c7;;;species;accepted;Stigmaria ficoides;Sven Ziepe;;;;;;;
 37;f6;;;species;accepted;Hymenoscyphus pseudoalbidus V. Queloz, C.R. Grünig, R. Berndt, T. Kowalski, T.N. Sieber & O. Holdenrieder;MycoBank;2010;;http://www.mycobank.org/MB/542015;;;;notified by personal email from Andrin Gross
-38;f7;;;genus;accepted;Andinobates Twomey, Brown, Amézquita, and Mejía-Vargas, 2011;;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083: 20;;;;Type species: Dendrobates bombetes Myers and Daly, 1980, by original designation.; notified by Ángela Suárez-Mayorga, see http://dev.gbif.org/issues/browse/POR-2030
+38;f7;;;genus;accepted;Andinobates Twomey, Brown, Amézquita, and Mejía-Vargas, 2011;;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083: 20;;;;Type species: Dendrobates bombetes Myers and Daly, 1980, by original designation.;notified by Ángela Suárez-Mayorga, see http://dev.gbif.org/issues/browse/POR-2030
 39;38;;53;species;;Andinobates abditus (Myers and Daly, 1976);;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083: 36.;http://dendrobates.org/articles/Myers&Daly1976_D.abditus.pdf;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-abditus;;
 40;38;;54;species;;Andinobates altobueyensis (Silverstone, 1975);;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083: 30.;;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-altobueyensis;;
 41;38;;;species;;Andinobates bombetes (Myers and Daly, 1980);;2011;Brown, Twomey, Amézquita, Souza, Caldwell, Lötters, von May, Melo-Sampaio, Mejía-Vargas, Pérez-Peña, Pepper, Poelman, Sanchez-Rodriguez, and Summers, 2011, Zootaxa, 3083.;;;http://research.amnh.org/vz/herpetology/amphibia/index.php//Amphibia/Anura/Dendrobatidae/Dendrobatinae/Andinobates/Andinobates-bombetes;;
@@ -129,7 +129,7 @@ f16;p3;;;family;accepted;Gnomoniaceae;Index Fungorum;;;;;;;
 55;;43;;species;;Dendrobates claudiae Jungfer, Lötters, and Jörgens, 2000;;2000;Herpetofauna, Weinstadt, 22: 12.;;;;;
 56;;44;;species;;Dendrobates daleswansoni Rueda-Almonacid, Rada, Sánchez-Pacheco, Velásquez-Álvarez, and Quevedo-Gil, 2006;;2006;Zootaxa, 1259: 41.;;;;;
 57;;45;;species;;Dendrobates dorisswansoni Rueda-Almonacid, Rada, Sánchez-Pacheco, Velásquez-Álvarez, and Quevedo-Gil, 2006;;2006;Zootaxa, 1259: 48.;;;;;
-58;;46;;species;;Dendrobates fulguritus Silverstone, 1975;;1975;Sci. Bull. Nat. Hist. Mus. Los Angeles Co., 21: 28. ;;;;;
+58;;46;;species;;Dendrobates fulguritus Silverstone, 1975;;1975;Sci. Bull. Nat. Hist. Mus. Los Angeles Co., 21: 28.;;;;;
 59;f8;;;species;;Jacobaea vulgaris Gaertn.;;1791;Fruct. Sem. Pl. 2: 445. 1791;;;;;
 60;59;;;subspecies;;Jacobaea vulgaris subsp. gotlandica (Neuman) B.Nord.;;2006;Compositae Newslett. 44: 12 (2006);;;http://www.actaplantarum.org/flora/flora_info.php?id=9392;;
 61;59;;;subspecies;;Jacobaea vulgaris subsp. dunensis (Dumort.) Pelser & Meijden;;2005;Heukels' Fl. Nederland 677. 2005;;;http://www.theplantlist.org/tpl1.1/record/gcc-54851;;
@@ -141,12 +141,18 @@ f16;p3;;;family;accepted;Gnomoniaceae;Index Fungorum;;;;;;;
 67;;66;;species;synonym;Ambrosia artemisiifolia Besser;;;;;;http://www.theplantlist.org/tpl1.1/record/gcc-142227;;illegitimate name
 68;o1;;;genus;accepted;Antennoluprops Schawaller, 2007;;2007;Spixiana 30/1: 29-32;;;http://www.pfeil-verlag.de/04biol/pdf/spix30_1_04.pdf;;
 69;68;;;species;accepted;Antennoluprops bremeri Schawaller, 2007;;2007;Spixiana 30/1: 29-32;;;http://www.pfeil-verlag.de/04biol/pdf/spix30_1_04.pdf;;
-70;68;;;species;accepted;Antennoluprops triplehorni Schawaller & Aalbu 2015;;2015;The Coleopterists Bulletin 69(mo4):80-82. 2015 ;doi:10.1649/0010-065X-69.mo4.80;;http://www.bioone.org/doi/abs/10.1649/0010-065X-69.mo4.80;;
+70;68;;;species;accepted;Antennoluprops triplehorni Schawaller & Aalbu 2015;;2015;The Coleopterists Bulletin 69(mo4):80-82. 2015;doi:10.1649/0010-065X-69.mo4.80;;http://www.bioone.org/doi/abs/10.1649/0010-065X-69.mo4.80;;
 71;;72;;genus;synonym;Vogtia Pastrana, 1961;;1961;;;;http://bugguide.net/node/view/750459;;Vogtia was a patronym for George B. Vogt (1920–1990) who worked extensively on the biological control of alligator weed.
 72;o15;;;genus;accepted;Arcola Shaffer, 1995;;1995;;;;http://bugguide.net/node/view/750459;;
 73;;74;;species;synonym;Vogtia malloi Pastrana, 1961;;1961;;;;https://en.wikipedia.org/wiki/Arcola_malloi;;
 74;72;;73;species;accepted;Arcola malloi (Pastrana, 1961);;;;;;https://en.wikipedia.org/wiki/Arcola_malloi;;
-75;76;;;species;accepted;Eriovixia gryffindori Ahmed, Khalap & Sumukha, 2016;;2016;Indian Journal of Arachnology 5 (1-2): 24-27 ;;;http://indianarachnology.com/ija/wp-content/uploads/2016/12/ija_2016_v5_n1_2_p7_24_27.pdf;;
+75;76;;;species;accepted;Eriovixia gryffindori Ahmed, Khalap & Sumukha, 2016;;2016;Indian Journal of Arachnology 5 (1-2): 24-27;;;http://indianarachnology.com/ija/wp-content/uploads/2016/12/ija_2016_v5_n1_2_p7_24_27.pdf;;
 76;c9;;;genus;accepted;Eriovixia Archer, 1951;;1951;;;;;;
 77;f15;;;genus;accepted;Discula Lowe, 1852;IRMNG;1852;Ann. Mag. Nat. Hist., (2) 9: 116;;;http://www.irmng.org/aphia.php?p=taxdetails&id=1380624;;
 78;f16;;;genus;accepted;Discula P.A. Saccardo, 1884;Index Fungorum;1884;Syll. fung. (Abellini) 3: 674 (1884);;;http://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=8085;;
+79;c6;;;genus;accepted;Aegithalos Hermann, 1804;;1804;;;;;;
+80;;79;;genus;synonym;Aegithalus;;;;;;;;
+81;79;;;species;accepted;Aegithalos consobrinus Swinhoe, 1870;;1870;;;;;;
+82;;81;;species;synonym;Aegithalus consobrinus;;;;;;;;
+83;79;;;subspecies;accepted;Aegithalos caudatus taiti Ingram, 1913;;1913;;;;;;
+84;;83;;subspecies;synonym;Aegithalus caudatus taiti;;;;;;;;
