@@ -50,6 +50,7 @@ c11;p6;;;class;;Amphibia;;;;;;;;
 c12;k1;;;class;;Clitellata;;;;;;;;
 c13;;c12;;class;;Oligochaeta;;;;;;;;
 c14;k1;;;class;;Malacostraca;;;;;;;;
+c15;k1;;;class;;Bivalvia;;;;;;;;
 o1;c1;;;order;;Coleoptera;;;;;;;;
 o3;c1;;;order;;Hymenoptera;;;;;;;;
 o4;c1;;;order;;Hemiptera;;;;;;;;
@@ -63,6 +64,8 @@ o12;c2;;;order;;Stylommatophora;ITIS;;;;;http://www.itis.gov/servlet/SingleRpt/S
 o13;c2;;;order;;Littorinimorpha;;;;;;http://www.catalogueoflife.org/col/browse/tree/id/4f3b1133c474f0b6a140c2c034c4662a;;
 o14;;o13;;order;;Heteropoda;;;;;;https://en.wikipedia.org/wiki/Pterotracheoidea;;
 o15;c1;;;order;;Lepidoptera;;;;;;;;
+o16;c1;;;order;;Diptera;;;;;;;;
+o17;c15;;;order;;Myida;;;;;;;;
 sf1;o4;;;superfamily;accepted;Coccoidea;CoL;;;;;;;
 f1;o1;;;family;;Hydraenidae;;;;;;;;
 f2;o12;;;family;;Amastridae;;;;;;;;
@@ -80,6 +83,9 @@ f13;k2;;;family;accepted;Fabaceae;;;;;;;;
 f14;;f13;;family;synonym;Leguminosae;;;;;;;;
 f15;o12;;;family;accepted;Helicidae Rafinesque, 1815;IRMNG;1815;;;;;;
 f16;p3;;;family;accepted;Gnomoniaceae;Index Fungorum;;;;;;;
+f17;;f19;;family;synonym;Xylophagidae Purchon, 1941;;1941;;;;;;
+f18;o16;;;family;accepted;Xylophagidae Fallen, 1810;;1810;;;;;;
+f19;o17;;;family;accepted;Xylophagaidae Purchon, 1941;WoRMS;1941;;;;;;
 1;f1;;;species;accepted;Hydraena truncata Rey, 1885;ITIS;;;;;http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=815716;;Provisionally added until it becomes available via ITIS or FaunaEuropaea
 2;f2;;;species;accepted;Amastra affinis (Newcomb, 1854);BishopMuseum;;;;;http://nsdb.bishopmuseum.org/?w=BPBM&explst=tr&cols=10&rpp=1000&pge=1&id=1519640147;;
 3;;2;;species;junior synonym;Achatinella goniostoma;BishopMuseum;;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
