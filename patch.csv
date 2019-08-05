@@ -37,6 +37,7 @@ p9-s2;;p9;;subphylum;synonym;Bryophytina;;;;;;;;
 p10;k5;;;phylum;;Cryptophyta;;;;;;;;
 p10-s1;;p10;;phylum;synonym;Cryptista;;;;;;;;
 24;;k4;;subphylum;synonym;Radiolaria;wikipedia;;;;;;;A subphylum hard to map to the CoL tree. Protozoa is a bit high, but is the best single match
+p11;k1;;;phylum;;Cnidaria;;;;;;;;
 c1;p1;;;class;;Insecta;;;;;;;;
 c2;p2;;;class;;Gastropoda;;;;;;;;
 c3;p3;;;class;;Dothideales;;;;;;;;
@@ -51,6 +52,7 @@ c12;k1;;;class;;Clitellata;;;;;;;;
 c13;;c12;;class;;Oligochaeta;;;;;;;;
 c14;k1;;;class;;Malacostraca;;;;;;;;
 c15;k1;;;class;;Bivalvia;;;;;;;;
+c16;p11;;;class;;Scyphozoa;;;;;;;;
 o1;c1;;;order;;Coleoptera;;;;;;;;
 o3;c1;;;order;;Hymenoptera;;;;;;;;
 o4;c1;;;order;;Hemiptera;;;;;;;;
@@ -66,6 +68,7 @@ o14;;o13;;order;;Heteropoda;;;;;;https://en.wikipedia.org/wiki/Pterotracheoidea;
 o15;c1;;;order;;Lepidoptera;;;;;;;;
 o16;c1;;;order;;Diptera;;;;;;;;
 o17;c15;;;order;;Myida;;;;;;;;
+o18;c16;;;order;;Rhizostomeae;;;;;;;;
 sf1;o4;;;superfamily;accepted;Coccoidea;CoL;;;;;;;
 f1;o1;;;family;;Hydraenidae;;;;;;;;
 f2;o12;;;family;;Amastridae;;;;;;;;
@@ -86,6 +89,9 @@ f16;p3;;;family;accepted;Gnomoniaceae;Index Fungorum;;;;;;;
 f17;;f19;;family;synonym;Xylophagidae Purchon, 1941;;1941;;;;;;
 f18;o16;;;family;accepted;Xylophagidae Fallen, 1810;;1810;;;;;;
 f19;o17;;;family;accepted;Xylophagaidae Purchon, 1941;WoRMS;1941;;;;;;
+f20;o18;;;family;accepted;Cepheidae Agassiz, 1862;;;;;;;;
+f21;;f22;;family;synonym;Cepheidae Berlese, 1896;;;;;;;;
+f22;c9;;;family;accepted;Compactozetidae Luxton, 1988;;;;;;;;
 1;f1;;;species;accepted;Hydraena truncata Rey, 1885;ITIS;;;;;http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=815716;;Provisionally added until it becomes available via ITIS or FaunaEuropaea
 2;f2;;;species;accepted;Amastra affinis (Newcomb, 1854);BishopMuseum;;;;;http://nsdb.bishopmuseum.org/?w=BPBM&explst=tr&cols=10&rpp=1000&pge=1&id=1519640147;;
 3;;2;;species;junior synonym;Achatinella goniostoma;BishopMuseum;;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.
@@ -172,3 +178,5 @@ f19;o17;;;family;accepted;Xylophagaidae Purchon, 1941;WoRMS;1941;;;;;;
 92;;93;;species;synonym;Sapromyzina frtercula Malloch;;;;;;;;typo
 93;;94;;species;synonym;Sapromyza fratercula Malloch, 1920;;;;;;;;
 94;o16;;;species;accepted;Homoneura fratercula (Malloch, 1920);;;;;;;;
+95;;;;family;;;;;;;;;;
+96;;;;;;;;;;;;;;
