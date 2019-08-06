@@ -38,6 +38,7 @@ p10;k5;;;phylum;;Cryptophyta;;;;;;;;
 p10-s1;;p10;;phylum;synonym;Cryptista;;;;;;;;
 24;;k4;;subphylum;synonym;Radiolaria;wikipedia;;;;;;;A subphylum hard to map to the CoL tree. Protozoa is a bit high, but is the best single match
 p11;k1;;;phylum;;Cnidaria;;;;;;;;
+p12;k1;;;phylum;;Annelida;;;;;;;;
 c1;p1;;;class;;Insecta;;;;;;;;
 c2;p2;;;class;;Gastropoda;;;;;;;;
 c3;p3;;;class;;Dothideales;;;;;;;;
@@ -170,7 +171,7 @@ f22;c9;;;family;accepted;Compactozetidae Luxton, 1988;;;;;;;;
 84;;83;;subspecies;synonym;Aegithalus caudatus taiti;;;;;;;;
 85;c14;;;species;accepted;Allanaspides hickmani Swain, Wilson & Ong, 1971;;1971;;;;https://doi.org/10.1163/156854071X00409;;
 86;c14;;;species;accepted;Allanaspides helonomus Swain, Wilson, Hickman & Ong, 1971;;1970;"Swain, R., Wilson, I.S., Hickman, J.L. & Ong, J.E. 1970, ""Allanaspides helonomus gen. et sp. nov. (Crustacea: Syncarida) from Tasmania"", Records of the Queen Victoria Museum, Launceston, vol. 35, pp. 1-13, 2 pls";;;https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:e125ede7-3481-4ea4-b637-17a4edd12bd2#names;;
-87;c9;;;species;accepted;Halacarellus floridearum (Lohmann, 1889) ;;;;;;;;
+87;c9;;;species;accepted;Halacarellus floridearum (Lohmann, 1889);;;;;;;;
 88;;87;;species;synonym;Halacarellus floridiarum (Lohmann, 1889);;;;;;;;spelling mistake
 89;;90;;species;synonym;Lanxania obscura Loew, 1861;;;;;;;;typo
 90;;91;;species;synonym;Lauxania obscura Loew, 1861;;;;;;;;
@@ -178,5 +179,5 @@ f22;c9;;;family;accepted;Compactozetidae Luxton, 1988;;;;;;;;
 92;;93;;species;synonym;Sapromyzina frtercula Malloch;;;;;;;;typo
 93;;94;;species;synonym;Sapromyza fratercula Malloch, 1920;;;;;;;;
 94;o16;;;species;accepted;Homoneura fratercula (Malloch, 1920);;;;;;;;
-95;;;;family;;;;;;;;;;
-96;;;;;;;;;;;;;;
+96;;97;;species;synonym;Ophryotrocha craigsmithia;;;;;;;;GBIF Type Specimen typo
+97;p12;;;species;accepted;Ophryotrocha craigsmithi;;;;;;;;
