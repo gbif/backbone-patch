@@ -41,6 +41,7 @@ p11;k1;;;phylum;;Cnidaria;;;;;;;;
 p12;k1;;;phylum;;Annelida;;;;;;;;
 p13;k5;;;phylum;;Ciliophora;;;;;;;;
 p14;k5;;;phylum;;Foraminifera;;;;;;;;
+p15;k4;;;phylum;;Euglenozoa;;;;;;;;
 c1;p1;;;class;;Insecta;;;;;;;;
 c2;p2;;;class;;Gastropoda;;;;;;;;
 c3;p3;;;class;;Dothideales;;;;;;;;
@@ -199,3 +200,4 @@ f37;;f36;;family;;Rhipogonaceae;;;;;;;;typo in PaleaoDB
 99;k3;;;species;accepted;Cortinarius caroviolaceus P.D. Orton;;;;;;;;
 100;c6;;;genus;accepted;Caloramphus Lesson, 1839;;1839;;;;;;
 101;;100;;genus;synonym;Calorhamphus Lesson, 1839;;1839;;;;https://github.com/gbif/portal-feedback/issues/2729;;misspelling
+102;p15;;;species;accepted;Trypanosoma brucei Plimmer & Bradford, 1899;;;;;;https://github.com/gbif/portal-feedback/issues/1331;;wrong classification and redundant genus under Animalia otherwise
