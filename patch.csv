@@ -73,6 +73,7 @@ o15;c1;;;order;;Lepidoptera;;;;;;;;
 o16;c1;;;order;;Diptera;;;;;;;;
 o17;c15;;;order;;Myida;;;;;;;;
 o18;c16;;;order;;Rhizostomeae;;;;;;;;
+o19;p1;;;order;;Sessilia;;;;;;;;
 sf1;o4;;;superfamily;accepted;Coccoidea;CoL;;;;;;;
 f1;o1;;;family;;Hydraenidae;;;;;;;;
 f2;o12;;;family;;Amastridae;;;;;;;;
@@ -203,3 +204,5 @@ f37;;f36;;family;;Rhipogonaceae;;;;;;;;typo in PaleaoDB
 102;p15;;;species;accepted;Trypanosoma brucei Plimmer & Bradford, 1899;;;;;;https://github.com/gbif/portal-feedback/issues/1331;;wrong classification and redundant genus under Animalia otherwise
 103;f13;;;species;accepted;Paraserianthes lophantha (Willd.) I.C.Nielsen;;1839;;;;https://en.wikipedia.org/wiki/Paraserianthes_lophantha;;
 104;;103;;species;synonym;Paraserthianthes lophantha (Willd.) I.C.Nielsen;;1839;;;;http://dx.doi.org/10.1071/sb11042;;author Joe Miller reported this as a misspelling
+105;o19;;;species;accepted;Balanus nubilus Darwin, 1854;;1854;Darwin, Charles R. 1854. A monograph on the sub-class Cirripedia with figures of all species.;urn:lsid:zoobank.org:pub:96BDC586-8E36-43B9-AC79-841E7D009409;;https://www.biodiversitylibrary.org/item/18394#page/269/mode/1up;;
+106;;105;;species;synonym;Balanus nubilis;;;;;;https://www.biodiversitylibrary.org/item/18394#page/269/mode/1up;;https://github.com/gbif/portal-feedback/issues/3499
