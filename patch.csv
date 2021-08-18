@@ -206,3 +206,5 @@ f37;;f36;;family;;Rhipogonaceae;;;;;;;;typo in PaleaoDB
 104;;103;;species;synonym;Paraserthianthes lophantha (Willd.) I.C.Nielsen;;1839;;;;http://dx.doi.org/10.1071/sb11042;;author Joe Miller reported this as a misspelling
 105;o19;;;species;accepted;Balanus nubilus Darwin, 1854;;1854;Darwin, Charles R. 1854. A monograph on the sub-class Cirripedia with figures of all species.;urn:lsid:zoobank.org:pub:96BDC586-8E36-43B9-AC79-841E7D009409;;https://www.biodiversitylibrary.org/item/18394#page/269/mode/1up;;
 106;;105;;species;synonym;Balanus nubilis;;;;;;https://www.biodiversitylibrary.org/item/18394#page/269/mode/1up;;https://github.com/gbif/portal-feedback/issues/3499
+107;p7;;;species;accepted;Hedera hibernica Poit.;1835;;;;;Bon Jard. 1835: 731 (1835);;https://github.com/gbif/portal-feedback/issues/3225
+108;;107;;species;synonym;Hedera hibernica (G.Kirchn.) Bean;;;;;;;;https://github.com/gbif/portal-feedback/issues/3225
