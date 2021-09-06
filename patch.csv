@@ -57,6 +57,7 @@ c13;;c12;;class;;Oligochaeta;;;;;;;;
 c14;k1;;;class;;Malacostraca;;;;;;;;
 c15;k1;;;class;;Bivalvia;;;;;;;;
 c16;p11;;;class;;Scyphozoa;;;;;;;;
+c17;p1;;;class;;Branchiopoda;;;;;;;;
 o1;c1;;;order;;Coleoptera;;;;;;;;
 o3;c1;;;order;;Hymenoptera;;;;;;;;
 o4;c1;;;order;;Hemiptera;;;;;;;;
@@ -208,3 +209,5 @@ f37;;f36;;family;;Rhipogonaceae;;;;;;;;typo in PaleaoDB
 106;;105;;species;synonym;Balanus nubilis;;;;;;https://www.biodiversitylibrary.org/item/18394#page/269/mode/1up;;https://github.com/gbif/portal-feedback/issues/3499
 107;p7;;;species;accepted;Hedera hibernica Poit.;1835;;;;;Bon Jard. 1835: 731 (1835);;https://github.com/gbif/portal-feedback/issues/3225
 108;;107;;species;synonym;Hedera hibernica (G.Kirchn.) Bean;;;;;;;;https://github.com/gbif/portal-feedback/issues/3225
+109;c17;;;species;accepted;Leptestheria dahalacensis (Rüppel, 1837);;;;;;;;https://doi.org/10.1007/s10750-007-0645-2
+110;;109;;species;synonym;Leptestheria dahalencis (Ruppell, 1837);;;;;;;;https://github.com/gbif/portal-feedback/issues/2985
