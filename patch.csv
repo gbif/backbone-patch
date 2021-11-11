@@ -214,3 +214,5 @@ f37;;f36;;family;;Rhipogonaceae;;;;;;;;typo in PaleaoDB
 110;;109;;species;synonym;Leptestheria dahalencis (Ruppell, 1837);;;;;;;;https://github.com/gbif/portal-feedback/issues/2985
 111;p7;;;species;accepted;Euphorbia platyphyllos;;;;;;;;https://github.com/gbif/portal-feedback/issues/3667
 112;;111;;species;synonym;Euphorbia platyphylla;;;;;;;;https://github.com/gbif/portal-feedback/issues/3667
+113;k3;;;species;accepted;Phaeocollybia jennyae (P.Karst.) Romagn.;;;;;;;;
+114;113;;;species;synonym;Phaeocollybia jennyae (P.Karst.) Heim;;;;;;https://github.com/gbif/portal-feedback/issues/1404;;Nom. Illeg.
