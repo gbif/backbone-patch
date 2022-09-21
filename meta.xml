@@ -1,4 +1,5 @@
 <archive xmlns="http://rs.tdwg.org/dwc/text/" metadata="eml.xml">
+
   <core encoding="utf-8" fieldsTerminatedBy=";" linesTerminatedBy="\n" fieldsEnclosedBy="&quot;" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
     <files>
       <location>patch.csv</location>
@@ -26,4 +27,12 @@
 	<!-- any further remarks and discussion why the name was inluded here -->
     <field index="14" term="http://rs.tdwg.org/dwc/terms/taxonRemarks"/>
   </core>
+
+  <extension encoding="UTF-8" fieldsTerminatedBy=";" linesTerminatedBy="\n" fieldsEnclosedBy="&quot;" ignoreHeaderLines="1" rowType="http://rs.gbif.org/terms/1.0/SpeciesProfile">
+    <files>
+      <location>patch.csv</location>
+    </files>
+    <coreid index="0"/>
+    <field index="15" term="http://rs.gbif.org/terms/1.0/isExtinct"/>
+  </extension>
 </archive>
