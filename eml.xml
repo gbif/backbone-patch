@@ -13,6 +13,7 @@
 			</individualName>
 			<organizationName>GBIF</organizationName>
 			<electronicMailAddress>mdoering@gbif.org</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-7757-1889</userId>
 		</creator>
 
 		<metadataProvider>
@@ -22,9 +23,10 @@
 			</individualName>
 			<organizationName>GBIF</organizationName>
 			<electronicMailAddress>mdoering@gbif.org</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-7757-1889</userId>
 		</metadataProvider>
 
-		<pubDate>2022-09-21</pubDate>
+		<pubDate>2022-09-28</pubDate>
 
 		<language>en</language>
 		<abstract>
@@ -55,6 +57,7 @@
 			</individualName>
 			<organizationName>GBIF</organizationName>
 			<electronicMailAddress>mdoering@gbif.org</electronicMailAddress>
+            <userId directory="http://orcid.org/">0000-0001-7757-1889</userId>
 		</contact>
 	</dataset>
 
