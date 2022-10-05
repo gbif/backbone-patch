@@ -1,7 +1,7 @@
 taxonID;parentNameUsageID;acceptedNameUsageID;originalNameUsageID;taxonRank;taxonomicStatus;scientificName;nameAccordingTo;namePublishedInYear;namePublishedIn;namePublishedInID;nomenclaturalStatus;dc:references;typification;taxonRemarks;isExtinct
 k1;;;;kingdom;;Animalia;;;;;;;;;
 k2;;;;kingdom;;Plantae;;;;;;;;;
-k2-s1;k2;;;kingdom;;Viridiplantae;;;;;;;;;
+k2-s1;;k2;;kingdom;synonym;Viridiplantae;;;;;;;;;
 k3;;;;kingdom;;Fungi;;;;;;;;;
 k4;;;;kingdom;;Protozoa;;;;;;;;;
 k5;;;;kingdom;;Chromista;;;;;;;;;
