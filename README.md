@@ -1,6 +1,6 @@
 # Backbone Patch
 Repository containing a Darwin Core Archive for small manual patches to the [GBIF backbone taxonomy](http://www.gbif.org/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c).
-The dataset is registered in GBIF under http://www.gbif.org/dataset/daacce49-b206-469b-8dc2-2257719f3afa.
+The dataset is registered in GBIF under https://www.gbif.org/dataset/daacce49-b206-469b-8dc2-2257719f3afa.
 
 
 A checklist providing patches to the automatically assembled GBIF backbone taxonomy.
