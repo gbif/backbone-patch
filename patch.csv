@@ -285,3 +285,7 @@ f40;c20;;;family;;Poaceae;;;;;;;;;
 137;;136;;species;synonym;Chatergellus afoveatus Cooper, 1993;;;;;;https://github.com/gbif/portal-feedback/issues/4755;;;
 138;f5;;;species;accepted;Synagris vicaria Stadelmann, 1898;;;;;;http://dx.doi.org/10.11646/zootaxa.5159.4.2;;;
 139;;138;;species;synonym;Synagis vicaria Stadelmann, 1898;;;;;;https://github.com/gbif/portal-feedback/issues/4753;;;
+140;f5;;;species;accepted;Synagris inermis Mocsary, 1903;;;;;;https://www.zobodat.at/pdf/DAKW_91_0215-0333.pdf;;;
+141;;140;;species;synonym;Synargris inermis Mocsary, 1903;;;;;;https://github.com/gbif/portal-feedback/issues/4753;;;
+142;f5;;;species;accepted;Synagris spinolae de Saussure, 1856;;;;;;https://www.zobodat.at/pdf/DAKW_91_0215-0333.pdf;;;
+143;;142;;species;synonym;Synargris spinolae de Saussure, 1856;;;;;;https://github.com/gbif/portal-feedback/issues/4753;;;
