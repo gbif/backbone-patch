@@ -289,3 +289,8 @@ f40;c20;;;family;;Poaceae;;;;;;;;;
 141;;140;;species;synonym;Synargris inermis Mocsary, 1903;;;;;;https://github.com/gbif/portal-feedback/issues/4753;;;
 142;f5;;;species;accepted;Synagris spinolae de Saussure, 1856;;;;;;https://www.zobodat.at/pdf/DAKW_91_0215-0333.pdf;;;
 143;;142;;species;synonym;Synargris spinolae de Saussure, 1856;;;;;;https://github.com/gbif/portal-feedback/issues/4753;;;
+144;f5;;;species;accepted;Raphiglossa symmorpha de Saussure, 1853;;;Ét. Fam. Vesp. 1: 279.;;;https://zenodo.org/record/4526087;;;
+145;;144;;species;synonym;Rhaphiglossa symmorpha de Saussure, 1852;;;;;;https://github.com/gbif/portal-feedback/issues/4752;;;
+
+
+taxonID;parentNameUsageID;acceptedNameUsageID;originalNameUsageID;taxonRank;taxonomicStatus;scientificName;nameAccordingTo;namePublishedInYear;namePublishedIn;namePublishedInID;nomenclaturalStatus;dc:references;typification;taxonRemarks;isExtinct
