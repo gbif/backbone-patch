@@ -281,4 +281,5 @@ f40;c20;;;family;;Poaceae;;;;;;;;;
 133;;132;;species;synonym;Curiosavespa curiosa;;;;;;https://github.com/gbif/portal-feedback/issues/4756;;;
 134;f5;;;species;accepted;Curiosivespa magna;;;;;;;;;
 135;;134;;species;synonym;Curiosavespa magna;;;;;;https://github.com/gbif/portal-feedback/issues/4756;;;
-
+136;f5;;;species;accepted;Chartergellus afoveatus Cooper, 1993;;;;;;;;;
+137;;136;;species;synonym;Chatergellus afoveatus Cooper, 1993;;;;;;https://github.com/gbif/portal-feedback/issues/4755;;;
