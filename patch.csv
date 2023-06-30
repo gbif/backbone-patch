@@ -283,3 +283,5 @@ f40;c20;;;family;;Poaceae;;;;;;;;;
 135;;134;;species;synonym;Curiosavespa magna;;;;;;https://github.com/gbif/portal-feedback/issues/4756;;;
 136;f5;;;species;accepted;Chartergellus afoveatus Cooper, 1993;;;;;;;;;
 137;;136;;species;synonym;Chatergellus afoveatus Cooper, 1993;;;;;;https://github.com/gbif/portal-feedback/issues/4755;;;
+138;f5;;;species;accepted;Synagris vicaria Stadelmann, 1898;;;;;;http://dx.doi.org/10.11646/zootaxa.5159.4.2;;;
+139;;138;;species;synonym;Synagis vicaria Stadelmann, 1898;;;;;;https://github.com/gbif/portal-feedback/issues/4753;;;
