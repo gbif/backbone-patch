@@ -297,3 +297,8 @@ f40;c20;;;family;;Poaceae;;;;;;;;;
 149;;148;;genus;synonym;Dolchivespula;;;;;;https://github.com/gbif/portal-feedback/issues/4746;;;
 150;148;;;species;accepted;Dolichovespula intermedia (Birula, 1930);;;;;;;;;
 151;;150;;species;synonym;Dolchivespula intermedia Birula;;;;;;https://github.com/gbif/portal-feedback/issues/4746;;;
+152;f5;;;genus;accepted;Eustenogaster van der Vecht;;;;;;https://zoobank.org/References/E53E169D-FCC2-4D1C-ACD1-9F5A1DF696CA;;;
+153;;152;;genus;synonym;Eustennogaster;;;;;;https://github.com/gbif/portal-feedback/issues/4747;;;
+154;152;;;species;accepted;Eustenogaster fuscipes (Cameron, 1902);;;;;;;;;
+155;;154;;species;synonym;Eustennogaster fuscipes (Cameron, 1909);;;;;;https://github.com/gbif/portal-feedback/issues/4747;;;
+
