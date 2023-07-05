@@ -147,6 +147,8 @@ f37;;f36;;family;;Rhipogonaceae;;;;;;;;typo in PaleaoDB;
 f38;o21;;;family;;Hominidae;;;;;;;;;
 f39;o1;;;family;;Chrysomelidae;;;;;;;;;
 f40;c20;;;family;;Poaceae;;;;;;;;; 
+f41;o16;;;family;;Mycetophilidae;;;;;;;;; 
+f42;f41;;;family;synonym;Mycetophiloidae;;;;;;;;; 
 1;f1;;;species;;Hydraena truncata Rey, 1885;ITIS;;;;;http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=815716;;Provisionally added until it becomes available via ITIS or FaunaEuropaea;
 2;f2;;;species;;Amastra affinis (Newcomb, 1854);BishopMuseum;;;;;http://nsdb.bishopmuseum.org/?w=BPBM&explst=tr&cols=10&rpp=1000&pge=1&id=1519640147;;;
 3;;2;;species;junior synonym;Achatinella goniostoma;BishopMuseum;;;;;;;following Cowie, R. H., N. L. Evenhuis & C. C. Christensen. 1995. Catalog of the native land and freshwater molluscs of the Hawaiian Islands. Backhuys Publishers, Leiden. vi+248 p.;
