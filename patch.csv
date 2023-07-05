@@ -303,4 +303,5 @@ f42;f41;;;family;synonym;Mycetophiloidae;;;;;;;;;
 153;;152;;genus;synonym;Eustennogaster;;;;;;https://github.com/gbif/portal-feedback/issues/4747;;;
 154;152;;;species;accepted;Eustenogaster fuscipes (Cameron, 1902);;;;;;;;;
 155;;154;;species;synonym;Eustennogaster fuscipes (Cameron, 1909);;;;;;https://github.com/gbif/portal-feedback/issues/4747;;;
-
+156;;;;species;accepted;Homoeographa lanceolella Ragonot, 1888;;;;;;https://github.com/gbif/portal-feedback/issues/4556;;;
+157;;156;;species;synonym;Homoeographa lamceolella;;;;;;https://github.com/gbif/portal-feedback/issues/4556;;;
