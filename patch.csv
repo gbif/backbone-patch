@@ -293,6 +293,7 @@ f40;c20;;;family;;Poaceae;;;;;;;;;
 145;;144;;species;synonym;Rhaphiglossa symmorpha de Saussure, 1852;;;;;;https://github.com/gbif/portal-feedback/issues/4752;;;
 146;o3;;;genus;accepted;Pseudepipona de Saussure, 1856;;;Et. Fam. Vesp., 3: 309;;;https://github.com/gbif/portal-feedback/issues/4751;;;
 147;;146;;genus;synonym;Pseudepipona Dalla Torre;;;https://doi.org/10.11646/zootaxa.1785.1.1;;;https://github.com/gbif/portal-feedback/issues/4751;;;
-
-
-taxonID;parentNameUsageID;acceptedNameUsageID;originalNameUsageID;taxonRank;taxonomicStatus;scientificName;nameAccordingTo;namePublishedInYear;namePublishedIn;namePublishedInID;nomenclaturalStatus;dc:references;typification;taxonRemarks;isExtinct
+148;f5;;;genus;accepted;Dolichovespula;;;;;;;;;
+149;;148;;genus;synonym;Dolchivespula;;;;;;https://github.com/gbif/portal-feedback/issues/4746;;;
+150;148;;;species;accepted;Dolichovespula intermedia (Birula, 1930);;;;;;;;;
+151;;150;;species;synonym;Dolchivespula intermedia Birula;;;;;;https://github.com/gbif/portal-feedback/issues/4746;;;
