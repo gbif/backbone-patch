@@ -307,3 +307,5 @@ f43-s1;f43;;;family;;Eumeninae;;;;;;;;;
 155;;154;;species;synonym;Eustennogaster fuscipes (Cameron, 1909);;;;;;https://github.com/gbif/portal-feedback/issues/4747;;;
 156;;;;species;accepted;Homoeographa lanceolella Ragonot, 1888;;;;;;https://github.com/gbif/portal-feedback/issues/4556;;;
 157;;156;;species;synonym;Homoeographa lamceolella;;;;;;https://github.com/gbif/portal-feedback/issues/4556;;;
+158;f8;;;species;accepted;Artemisia sieversiana Ehrh. ex Willd.;;;;;;https://www.ipni.org/n/urn:lsid:ipni.org:names:180122-1;;;
+159;;158;;species;synonym;Artemisia siversiana;;;;;;https://github.com/gbif/portal-feedback/issues/4672;;;
